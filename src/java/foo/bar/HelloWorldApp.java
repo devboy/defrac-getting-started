@@ -3,7 +3,6 @@ package foo.bar;
 import defrac.app.*;
 import defrac.display.*;
 import defrac.event.*;
-import clojure.data.*;
 
 /**
  *

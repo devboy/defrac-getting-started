@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/defrac-getting-started.iml" filepath="$PROJECT_DIR$/.idea/defrac-getting-started.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/defrac-getting-started.ios.iml" filepath="$PROJECT_DIR$/.idea/defrac-getting-started.ios.iml" group="Platform Specific" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/defrac-getting-started.jvm.iml" filepath="$PROJECT_DIR$/.idea/defrac-getting-started.jvm.iml" group="Platform Specific" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/defrac-getting-started.macro.iml" filepath="$PROJECT_DIR$/.idea/defrac-getting-started.macro.iml" group="Platform Specific" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/defrac-getting-started.macro.ios.iml" filepath="$PROJECT_DIR$/.idea/defrac-getting-started.macro.ios.iml" group="Platform Specific" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/defrac-getting-started.macro.jvm.iml" filepath="$PROJECT_DIR$/.idea/defrac-getting-started.macro.jvm.iml" group="Platform Specific" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/defrac-getting-started.macro.web.iml" filepath="$PROJECT_DIR$/.idea/defrac-getting-started.macro.web.iml" group="Platform Specific" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/defrac-getting-started.web.iml" filepath="$PROJECT_DIR$/.idea/defrac-getting-started.web.iml" group="Platform Specific" />
+    </modules>
+  </component>
+</project>
+
