@@ -1,0 +1,20 @@
+{
+  "name": "defrac-getting-started",
+  "package": "com.defracGettingStarted",
+  "identifier": "defracGettingStarted",
+  "main": "foo.bar.HelloWorldApp",
+  "version": "1.0",
+  "targets": [
+    "ios",
+    "jvm",
+    "web",
+    "android"
+  ],
+  "debug": false,
+  "web": {
+    "js": "defracgettingstarted.js"
+  },
+  "android": {
+    "sdk": "\/Users\/devboy\/Downloads\/android-sdk-macosx"
+  }
+}
